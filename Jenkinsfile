@@ -3,7 +3,7 @@ node {
       echo "First Stage 1"
    }
    stage("Second") {
-      echo "Second Staage"
+      echo "Second Stage"
    }
    stage("Third") {
       input "Everything ok?"
